@@ -9,7 +9,6 @@
 - Name : Erik Solberg
 - Favorite Color : Yellow
 - Hobby : Studies Tagalog in free time
-- :musical_note: I love to hear country music
 </pre>
 ### Languages
 

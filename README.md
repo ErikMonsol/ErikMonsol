@@ -6,9 +6,9 @@
 </pre>
 <pre>
 ⚡ More about me :
-- Name : Erik Solberg
-- Favorite Color : Yellow
-- Hobby : Studies Tagalog in free time
+    Name           : Erik Solberg
+    Favorite Color : Yellow
+    Hobby          : Studies Tagalog in free time
 </pre>
 ### Languages
 

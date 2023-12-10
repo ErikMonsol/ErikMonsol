@@ -4,13 +4,13 @@
     💻 Studying Front End Development 
     🎮 Likes video games and movies
 </pre>
-
+<pre>
 ⚡ More about me :
 - Name : Erik Solberg
 - Favorite Color : Yellow
 - Hobby : Studies Tagalog in free time
 - :musical_note: I love to hear country music
-
+</pre>
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)

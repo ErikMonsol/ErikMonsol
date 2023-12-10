@@ -1,9 +1,4 @@
-### Hi there 👋
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/ErikMonsol/ErikMonsol/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/ErikMonsol/ErikMonsol/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-_generated with [Platane/snk](https://github.com/Platane/snk)_
+<!-- ## 👋 &nbsp;Hey there! I'm Erik <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"/> -->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
